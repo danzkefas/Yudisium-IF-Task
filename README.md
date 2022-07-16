@@ -12,9 +12,9 @@ Tugas-tugas Yudisium Informatika
 
 4. [ ] Jika sudah mendapatkan persetujuan di proses Penyisihan, mahasiswa diwajibkan melakukan pendaftaran Yudisium melalui menu PENGAJUAN-YUDISIUM pada Student Portal. Petunjuk pengisian dapat dilihat di STUPOR.
 
-5. [ ] Mahasiswa wajib menyelesaikan semua Administrasi Keuangan (akan diverifikasi juga oleh Kasubag Kemahasiswaan).
+5. [v] Mahasiswa wajib menyelesaikan semua Administrasi Keuangan (akan diverifikasi juga oleh Kasubag Kemahasiswaan).
 
-6. [ ] Mahasiswa menyiapkan versi cetak dan versi digital: pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih.
+6. [v] Mahasiswa menyiapkan versi cetak dan versi digital: pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih.
 
 7. [ ] Mengunggah versi digital Skripsi dengan format penamaan file NPM-Nama Lengkap pada tautan sbb: Informatika → https://bit.ly/Skripsi-IF_2021_02
     * Khusus untuk mahasiswa program studi Informatika, versi digital yang harus diunggah tersebut berisi:
@@ -25,7 +25,7 @@ Tugas-tugas Yudisium Informatika
 
 9. [ ] Mengisi Data wisuda di file Excel pada tautan: https://s.id/Data-Yudisium-FTIS dan Menu Kelulusan di STUPOR (yang disediakan BAA).
 
-10. [ ] Mengisi Surat Keterangan Pendamping Ijazah (SKPI) pada STUPOR melalui menu KEGIATAN MAHASISWA (sudah bisa mulai diisi mulai dari sekarang).
+10. [v] Mengisi Surat Keterangan Pendamping Ijazah (SKPI) pada STUPOR melalui menu KEGIATAN MAHASISWA (sudah bisa mulai diisi mulai dari sekarang).
 
 11. [ ] Portofolio Kegiatan Mahasiswa beserta bukti sertifikat dsb pada website portofolioftis.unpar.ac.id. Pengisian dimulai hari Selasa, 2 Agustus 2022.
 
